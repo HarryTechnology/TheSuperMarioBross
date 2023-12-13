@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap');
+
+/*  font-family: 'Sarala', sans-serif;       
+    font-family: 'Righteous', sans-serif; */
+
+.text{
+    display: flex;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Sarala', sans-serif; 
+    gap: 32px;
+    align-items: center;
+    column-gap: 48px;
+
+    list-style: none;
+}
